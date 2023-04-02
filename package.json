@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "newman": "^5",
+    "newman-reporter-htmlextra": "^1"
+  }
+}
